@@ -1,5 +1,5 @@
-# Power Plan Manager
-Windows Power Plan Auto Switcher
+# Power Plan Manager for Windows
+
 # Power Plan Automatic Switch
 Power Plan Auto Switch is a windows power manager based in python coding to automatically switch your power plans according to your needs.
 Its focus, is to balance the necessity of resources with the usage of applications.
